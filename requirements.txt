@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+markdownify>=0.11.6
+pandas>=2.1.0
+lxml>=5.1.0
+playwright>=1.40.0
